@@ -1,0 +1,16 @@
+var a = 1;
+var b = 2;
+var c = a + b;
+console.log(c);
+var d = 3;
+var e = 4;
+var f = d + e;
+console.log(f);
+var g = 5;
+var h = 6;
+var i = g + h;
+console.log(i);
+var j = 7;
+var k = 8;
+var l = j + k;
+console.log(l); 
